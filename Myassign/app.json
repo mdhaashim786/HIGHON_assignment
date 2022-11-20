@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Myassign",
+    "slug": "Myassign",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Myassign"
+}
