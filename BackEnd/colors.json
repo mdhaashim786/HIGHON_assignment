@@ -1,0 +1,157 @@
+[
+    {
+        "_id": "1",
+        "name": "Bronze",
+        "code": "#CD7F32",
+        "Qualities": {
+            "SYMBOLIZES": [
+                "STRENGTH",
+                "LOYALTY",
+                "SUPPORT",
+                "STABILITY"
+            ],
+            "EFFECTS": [
+                "SOOTHES",
+                "INSPIRES",
+                "UPLIFTS",
+                "MOTIVATES"
+            ],
+            "POSITIVE": [
+                "COMFORTING",
+                "RELIABLE",
+                "ELEGANT",
+                "TRUTHFUL"
+            ],
+            "NEGATIVE": [
+                "BOASTFUL",
+                "CHEAP",
+                "UPTIGHT",
+                "TIGHT-FISTED"
+            ]
+        }
+    },
+    {
+        "_id": "2",
+        "name": "Lilac",
+        "code": "#C8A2C8",
+        "Qualities": {
+            "SYMBOLIZES": [
+                "HELPFULNESS",
+                "KINDNESS",
+                "SERENITY",
+                "COMPASSION"
+            ],
+            "EFFECTS": [
+                "RELAXES",
+                "INSPIRES",
+                "UPLIFTS",
+                "SOOTHES"
+            ],
+            "POSITIVE": [
+                "EMPATHETIC",
+                "FEARLESS",
+                "HELPFUL",
+                "OPTIMISTIC"
+            ],
+            "NEGATIVE": [
+                "INEXPERIENCED",
+                "FRAGILE",
+                "INFANTILE",
+                "UNPREDICTABLE"
+            ]
+        }
+    },
+    {
+        "_id": "3",
+        "name": "Yellow",
+        "code": "#F8ED62",
+        "Qualities": {
+            "SYMBOLIZES": [
+                "HAPPINESS",
+                "OPTIMISM",
+                "POSITIVITY",
+                "INTELLECT"
+            ],
+            "EFFECTS": [
+                "CLARIFIES",
+                "INSPIRES",
+                "AMUSES",
+                "ENERGIZES"
+            ],
+            "POSITIVE": [
+                "CREATIVITY",
+                "PERCEPTION",
+                "MENTALITY",
+                "WARMTH"
+            ],
+            "NEGATIVE": [
+                "COWARDICE",
+                "DECEPTION",
+                "EGOTISM",
+                "CAUTION"
+            ]
+        }
+    },
+    {
+        "_id": "4",
+        "name": "Red",
+        "code": "#FF0000",
+        "Qualities": {
+            "SYMBOLIZES": [
+                "ACTION",
+                "STRENGTH",
+                "ENERGY",
+                "PASSION"
+            ],
+            "EFFECTS": [
+                "ATTENTION",
+                "MOTIVATES",
+                "STIMULATES",
+                "CAUTIONS"
+            ],
+            "POSITIVE": [
+                "SEXUALITY",
+                "COURAGE",
+                "DESIRE",
+                "CONFIDENCE"
+            ],
+            "NEGATIVE": [
+                "ANGER",
+                "DANGER",
+                "REVENGE",
+                "AGGRESSION"
+            ]
+        }
+    },
+    {
+        "_id": "5",
+        "name": "Blue",
+        "code": "#0033FF",
+        "Qualities": {
+            "SYMBOLIZES": [
+                "SECURITY",
+                "TRUST",
+                "LOYALTY",
+                "RESPONSIBLE"
+            ],
+            "EFFECTS": [
+                "PROTECTS",
+                "CALMS",
+                "RELAXES",
+                "SUPPORTS"
+            ],
+            "POSITIVE": [
+                "CONFIDENCE",
+                "PEACE",
+                "HONESTY",
+                "RELIABILITY"
+            ],
+            "NEGATIVE": [
+                "CONSERVATIVE",
+                "PASSIVE",
+                "DEPRESSED",
+                "PREDICTABLE"
+            ]
+        }
+    }
+]
